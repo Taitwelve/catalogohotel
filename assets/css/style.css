@@ -53,4 +53,20 @@ img {
     background-size: cover;
     display: flex;
     align-items: center;
+    
+    .hero-content {
+        width: 60%;
+        padding: 5rem;
+        color: var(--color-light);
+
+        h2 {
+            font-size: 7vmin;
+        }
+
+        p {
+            font-weight: 600;
+            margin-bottom: 2rem;
+            line-height: 3.6rem;
+        }
+    }
 }
