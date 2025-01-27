@@ -8,10 +8,6 @@ Este é um projeto simples de um site de catálogo de hotéis, onde os usuários
 - **CSS3**
 - **Google Fonts**
 
-## 📷 Captura de Tela
-
-![Preview do projeto](./assets/images/preview.png) *(adicione um screenshot do site aqui)*
-
 ## 🚀 Como Executar o Projeto
 
 1. **Clone este repositório:**
@@ -46,5 +42,5 @@ Este é um projeto simples de um site de catálogo de hotéis, onde os usuários
 
 ## 📌 Autor
 
-Desenvolvido por **[Seu Nome](https://github.com/seu-usuario)**. Se gostou, deixe uma ⭐ no repositório!
+Desenvolvido por **Taiane Nascimento**. Se gostou, deixe uma ⭐ no repositório!
 
