@@ -29,3 +29,17 @@ a {
 img {
     max-width: 100%;
 }
+
+.btn {
+    background-color: var(--color-blue);
+    border: 2px solid var(--color-blue);
+    padding: 8px 3.5rem;
+    border-radius: 5px;
+    color: var(--color-light);
+    transition: var(--transition);
+
+    &:hover {
+        background-color: transparent;
+        color: var(--color-blue);
+    }
+}
