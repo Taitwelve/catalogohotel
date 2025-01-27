@@ -18,3 +18,14 @@ html {
 body {
     font-size: 1.6rem;
 }
+
+a {
+    text-decoration: none;
+    color: var(--color-light);
+    font-weight: 900;
+    transition: var(--transition);
+}
+
+img {
+    max-width: 100%;
+}
