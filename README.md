@@ -1,33 +1,32 @@
-Catálogo de Hotéis
+# Catálogo de Hotéis
 
 Este é um projeto simples de um site de catálogo de hotéis, onde os usuários podem visualizar opções de acomodações e fazer reservas.
 
-📌 Tecnologias Utilizadas
+## 📌 Tecnologias Utilizadas
 
-HTML5
+- **HTML5**
+- **CSS3**
+- **Google Fonts**
 
-CSS3
+## 📷 Captura de Tela
 
-Google Fonts
+![Preview do projeto](./assets/images/preview.png) *(adicione um screenshot do site aqui)*
 
-📷 Captura de Tela
+## 🚀 Como Executar o Projeto
 
- (adicione um screenshot do site aqui)
+1. **Clone este repositório:**
+   ```sh
+   git clone https://github.com/seu-usuario/catalogo-hoteis.git
+   ```
+2. **Navegue até a pasta do projeto:**
+   ```sh
+   cd catalogo-hoteis
+   ```
+3. **Abra o arquivo `index.html` no navegador** ou utilize um servidor local.
 
-🚀 Como Executar o Projeto
+## 📁 Estrutura de Diretórios
 
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/catalogo-hoteis.git
-
-Navegue até a pasta do projeto:
-
-cd catalogo-hoteis
-
-Abra o arquivo index.html no navegador ou utilize um servidor local.
-
-📁 Estrutura de Diretórios
-
+```
 /
 ├── assets/
 │   ├── css/
@@ -38,14 +37,14 @@ Abra o arquivo index.html no navegador ou utilize um servidor local.
 │   │   ├── ...
 ├── index.html
 └── README.md
+```
 
-🔗 Links Úteis
+## 🔗 Links Úteis
 
-Google Fonts
+- [Google Fonts](https://fonts.google.com/)
+- [Pexels (imagens gratuitas)](https://www.pexels.com/)
 
-Pexels (imagens gratuitas)
+## 📌 Autor
 
-📌 Autor
-
-Desenvolvido por mim. Se gostou, deixe uma ⭐ no repositório!
+Desenvolvido por **[Seu Nome](https://github.com/seu-usuario)**. Se gostou, deixe uma ⭐ no repositório!
 
